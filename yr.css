@@ -1,0 +1,66 @@
+.flottant
+{
+    float: center;
+}
+
+mark
+{
+    background-color: olive;
+    color: white;
+    text-align: center;
+}
+
+h1
+{
+    background-color: olive;
+}
+h4
+{
+    background-color: olive;
+}
+
+center b 
+{
+    color: rgb(112, 54, 54);
+}
+
+a 
+{
+    color: rgb(43, 35, 35);
+}
+
+body
+{
+    background-color: khaki;
+
+}
+
+ul
+{
+    border-style: solid;
+    border-color: olive;
+    border-radius: 6px;
+    border-width: thick;
+    border-spacing: 2px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: cursive;
+    text-decoration: unset;
+    font-weight: bold;
+}
+
+i
+{
+    color: white;
+}
+
+h5
+{
+    background-color: gray;
+    
+}
+
+ol
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
